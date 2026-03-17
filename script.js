@@ -1,5 +1,6 @@
-const p = document.querySelector('.p')
+const p = document.querySelector('.Hello')
 p.addEventListener('click',()=>{
-    console.log("Hello");
+  p.style.color = "white";
+  p.style.backgroundColor = "blue";
     
 })
