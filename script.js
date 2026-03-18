@@ -1,6 +1,4 @@
-const p = document.querySelector('.Hello')
-p.addEventListener('click',()=>{
-  p.style.color = "white";
-  p.style.backgroundColor = "blue";
-    
-})
+a = 1;
+b = 2;
+c = 3;
+console.log(a+b-c);
